@@ -54,7 +54,6 @@ body {
   border: 0;
 }
 
-/* Masthead */
 .masthead {
   display: flex;
   flex-wrap: wrap;
@@ -113,7 +112,6 @@ body {
   font-weight: 600;
 }
 
-/* Controls */
 .controls {
   display: flex;
   flex-wrap: wrap;
@@ -167,7 +165,6 @@ body {
   color: var(--ink);
 }
 
-/* Grid */
 .grid {
   list-style: none;
   margin: 0;
